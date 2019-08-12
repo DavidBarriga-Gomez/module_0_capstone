@@ -4,9 +4,10 @@
 
 # example: Write code below to print your name to the terminal:
 p "Alan Turing"
+p "this is David here."
 
 # Write code below to print `Welcome to Turing!` to the terminal:
-p #YOUR CODE HERE
+p "Welcome to turing again"
 
 # Write code below to print `99 bottles of pop on the wall...`:
-# YOUR CODE HERE
+p "you can't tell me what to do. You are just a lesson"
